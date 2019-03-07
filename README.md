@@ -20,7 +20,7 @@ Backend Software Engineer (Intern) Test (Divercity.io)
 - Hosting on Heroku is required
 
 ## Technologies
-- Express (NodeJS)
+- Express (NodeJS) / Ruby (Rails)
 - Postgres/MongoDB
 
 
